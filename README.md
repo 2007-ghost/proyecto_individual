@@ -9,10 +9,6 @@ Este sitio web fue desarrollado por **Kevin Quintero** como presentación person
 - Información básica (nombre, edad, lugar de nacimiento)
 - Breve descripción personal
 - Lista de intereses
-
-## 📁 Estructura del proyecto
-
-
 ## 🚀 Cómo usar
 
 1. Clona o descarga este repositorio.
