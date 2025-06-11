@@ -1,11 +1,6 @@
 # Mi Perfil - Kevin Quintero
 
 Este es un proyecto simple en HTML y CSS que presenta un perfil personal. Incluye una imagen de perfil, información básica y una lista de intereses.
-
-## 🖼️ Vista previa
-
-(Agrega aquí una captura de pantalla del perfil si deseas mostrar cómo se ve)
-
 ## 📄 Descripción
 
 Este sitio web fue desarrollado por **Kevin Quintero** como presentación personal. Contiene:
